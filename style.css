@@ -9,6 +9,7 @@ header {
   align-items: center;
   justify-content: space-between;
 }
+html,
 body {
   margin: 0px;
   font-size: 16px;
@@ -16,6 +17,7 @@ body {
   color: rgb(167, 171, 202);
   background: linear-gradient(#000000 5%, #2a2255);
   padding: 0px;
+  height: 100%;
 }
 * {
   margin: 0px;
